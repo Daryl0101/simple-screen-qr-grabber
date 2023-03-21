@@ -8,3 +8,5 @@ A simple piece of code that takes a full screenshot and extracts the QR code fro
 ![image](https://user-images.githubusercontent.com/69662730/226556570-8a41c21c-b827-4c5d-84fe-f49f10864e7a.png)
 4. To scan the QR Code on the screen, click on the shortcut and _Voilà_!   
 ![image](https://user-images.githubusercontent.com/69662730/226556871-01c2b1c9-dbbb-440d-b1db-830911443ef8.png)
+5. Here's something for you to try.  
+![qr-code-2](https://user-images.githubusercontent.com/69662730/226560327-d8119752-5864-45cd-90cb-e610087cd23b.png)
